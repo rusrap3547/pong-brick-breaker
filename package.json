@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "excalibur": "0.30.3"
+  },
+  "name": "pong-brick-breaker",
+  "version": "1.0.0",
+  "description": "Game to show off",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "5.8.3",
+    "vite": "7.0.3"
+  },
+  "scripts": {
+    "test": "npm run superTest",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "server": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusrap3547/pong-brick-breaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusrap3547/pong-brick-breaker/issues"
+  },
+  "homepage": "https://github.com/rusrap3547/pong-brick-breaker#readme"
+}
