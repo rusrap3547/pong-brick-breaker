@@ -14,7 +14,7 @@
     "test": "npm run superTest",
     "start": "vite",
     "build": "tsc && vite build",
-    "server": "vite preview"
+    "serve": "vite preview"
   },
   "repository": {
     "type": "git",
